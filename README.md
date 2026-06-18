@@ -10,6 +10,7 @@ Bu projeyi web geliştirme temellerini öğrenmek, HTML/CSS yapısını pekişti
 HTML5
 CSS3
 JavaScript
+
 ✨ Özellikler
 Basit ve sade tasarım
 Responsive  uyumlu yapı 
